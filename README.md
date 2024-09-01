@@ -7,7 +7,9 @@ The Vehicle Transfer System is a comprehensive web application designed for mana
 ## Features
 
 - **View Drivers**: List all drivers and their details.
+- **Add Drivers**: Add Drivers and their details.
 - **View Vehicles**: List all vehicles and their details.
+- **Add Vehicles**: Add Vehicles and their details.
 - **Transfer History**: View all vehicle transfer records.
 - **Create Transfers**: Manage vehicle transfers between drivers.
 
